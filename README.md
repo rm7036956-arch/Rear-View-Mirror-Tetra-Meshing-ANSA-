@@ -42,11 +42,3 @@ Surface and volume meshing of a car rear-view mirror assembly (housing, stem and
 
 ## Tools
 ANSA v25.0.0 · IGES · Tetra Rapid · NASTRAN
-
-## Repository structure
-├── images/
-├── report/Rearview_Mirror_Meshing_Report.pdf
-├── ansa/Rearview_mirror_meshed.ansa
-└── README.md
-
-> Geometry files are provided by the course and not redistributed.
